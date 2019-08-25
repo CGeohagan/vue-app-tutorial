@@ -1,4 +1,6 @@
-# vue-app
+# vue-app-tutorial
+
+Created with Tania Rascia's getting started with Vue [tutorial](https://www.taniarascia.com/getting-started-with-vue/)
 
 ## Project setup
 ```
